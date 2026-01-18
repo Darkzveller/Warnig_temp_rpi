@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# test
 import subprocess
 import platform
 import time  # pour faire des pauses entre les mesures
